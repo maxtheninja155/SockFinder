@@ -15,18 +15,28 @@
   <body>
     <h1>Sock Finder</h1>
 
-    <div class="hero">
-      <label for="input-file" id="drop-area">
-        <input type="file" accept="image/*" id="input-file" hidden />
-        <div id="img-view">
-          <img src="../static/icon.png" />
-          <p>Drag and drop or click here<br />to upload sock images</p>
-          <span>Upload any sock images from desktop</span>
-        </div>
-      </label>
-    </div>
-
-    <form id="sockForm" action="/results" method="post">
+    <form
+      id="userinp"
+      action="{{ url_for('getResults') }}"
+      method="post"
+      enctype="multipart/form-data"
+    >
+      <div class="hero">
+        <label for="input-file" id="drop-area">
+          <input
+            type="file"
+            accept="image/*"
+            id="input-file"
+            name="userinp"
+            hidden
+          />
+          <div id="img-view">
+            <img src="../static/icon.png" />
+            <p>Drag and drop or click here<br />to upload sock images</p>
+            <span>Make sure sock is centered</span>
+          </div>
+        </label>
+      </div>
       <input type="submit" value="Find Socks" id="getSocks" />
     </form>
 

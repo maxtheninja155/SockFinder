@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sock Finder</title>
+    <title>Pair of socks:</title>
     <link rel="stylesheet" type="text/css" href="../static/style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -13,6 +13,21 @@
     />
   </head>
   <body>
-    <!--Use Ginja to show image-->
+    <h1>Your matching socks:</h1>
+
+    <div class="image-container1">
+      <p>Old sock:</p>
+      <img
+        class="new-sock1"
+        src="{{ url_for('static', filename='uploaded_image.jpg') }}"
+      />
+    </div>
+
+    <div class="image-container2">
+      <p>New sock:</p>
+      <img class="new-sock2" src="{{ url_for('static', filename=sockPath) }}" />
+    </div>
+
+    <p class="love">Made with 💙 in San Diego, CA</p>
   </body>
 </html>

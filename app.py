@@ -49,7 +49,7 @@ def get_simular_sock(input_picture_path):
             csv_value = value.split(',')
             csv_value[2] = csv_value[2].strip()
             if input_sock_color_name == csv_value[2]:
-                print(csv_value[0])
+                return csv_value[0]
 
 
 '''
@@ -174,7 +174,7 @@ socks_data_images = ['socks_images/product_images/1.jpg',
 '''
 
 # should turn up white ish
-get_simular_sock('socks_images/Test_Photos/SockTest.jpg')
+# get_simular_sock('socks_images/product_images/1.jpg')
 
 '''
     for socks in socks_data_images:
