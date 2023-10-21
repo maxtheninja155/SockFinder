@@ -1,0 +1,118 @@
+File_Name,Center_Pixel_RGB,Closest_Color
+test,test,test
+socks_images/product_images/1.jpg,[33 17  0],black
+socks_images/product_images/2.jpg,[40 99 31],forestgreen
+socks_images/product_images/3.jpg,[117  38  51],brown
+socks_images/product_images/4.jpg,[ 33  31 154],midnightblue
+socks_images/product_images/5.jpg,[96 36 20],maroon
+socks_images/product_images/6.jpg,[37 26 28],black
+socks_images/product_images/7.jpg,[58 50 51],darkslategray
+socks_images/product_images/8.jpg,[166 164 170],darkgray
+socks_images/product_images/9.jpg,[136 135 155],lightslategray
+socks_images/product_images/10.jpg,[169 161 172],darkgray
+socks_images/product_images/11.jpg,[171 178 173],darkgray
+socks_images/product_images/12.jpg,[150 155 176],darkgray
+socks_images/product_images/13.jpg,[29 80 42],darkslategray
+socks_images/product_images/14.jpg,[140  43  17],saddlebrown
+socks_images/product_images/15.jpg,[ 48  30 143],midnightblue
+socks_images/product_images/16.jpg,[176 119 134],rosybrown
+socks_images/product_images/17.jpg,[86 34 22],maroon
+socks_images/product_images/18.jpg,[131  43 210],blueviolet
+socks_images/product_images/19.jpg,[179 182  49],yellowgreen
+socks_images/product_images/20.jpg,[194 163 132],rosybrown
+socks_images/product_images/21.jpg,[126 137 151],lightslategray
+socks_images/product_images/22.jpg,[47 26 58],darkslategray
+socks_images/product_images/23.jpg,[ 39   0 211],mediumblue
+socks_images/product_images/24.jpg,[223 223 241],lavender
+socks_images/product_images/25.jpg,[  1 110 255],dodgerblue
+socks_images/product_images/26.jpg,[237 231 232],linen
+socks_images/product_images/27.jpg,[108  10 208],darkviolet
+socks_images/product_images/28.jpg,[180 196 225],lightsteelblue
+socks_images/product_images/29.jpg,[122  39 221],blueviolet
+socks_images/product_images/30.jpg,[241 235 236],linen
+socks_images/product_images/31.jpg,[120 140 197],lightslategray
+socks_images/product_images/32.jpg,[ 46  54 161],darkslateblue
+socks_images/product_images/33.jpg,[61 39 27],darkslategray
+socks_images/product_images/34.jpg,[ 68  36 231],royalblue
+socks_images/product_images/35.jpg,[100  10 247],blueviolet
+socks_images/product_images/36.jpg,[36 32 27],black
+socks_images/product_images/37.jpg,[31 27 22],black
+socks_images/product_images/38.jpg,[38 31 68],midnightblue
+socks_images/product_images/39.jpg,[47 38 34],darkslategray
+socks_images/product_images/40.jpg,[75 37 43],darkslategray
+socks_images/product_images/41.jpg,[51 36 64],darkslategray
+socks_images/product_images/42.jpg,[55 55 71],darkslategray
+socks_images/product_images/43.jpg,[ 31   1 190],mediumblue
+socks_images/product_images/44.jpg,[30 25 34],black
+socks_images/product_images/45.jpg,[59 92 11],darkolivegreen
+socks_images/product_images/46.jpg,[ 49  12 216],mediumblue
+socks_images/product_images/47.jpg,[40 25 29],black
+socks_images/product_images/48.jpg,[28 45 18],black
+socks_images/product_images/49.jpg,[29 21 22],black
+socks_images/product_images/50.jpg,[24 34 18],black
+socks_images/product_images/51.jpg,[28 22 23],black
+socks_images/product_images/52.jpg,[154 120 131],gray
+socks_images/product_images/53.jpg,[44 38 39],darkslategray
+socks_images/product_images/54.jpg,[77 50 23],darkolivegreen
+socks_images/product_images/55.jpg,[104  39   1],maroon
+socks_images/product_images/56.jpg,[116 107 103],dimgray
+socks_images/product_images/57.jpg,[230 224 225],gainsboro
+socks_images/product_images/58.jpg,[  0 208 251],deepskyblue
+socks_images/product_images/59.jpg,[187 180 247],lightsteelblue
+socks_images/product_images/60.jpg,[230 204   4],gold
+socks_images/product_images/61.jpg,[195 186 182],silver
+socks_images/product_images/62.jpg,[236 230 231],linen
+socks_images/product_images/63.jpg,[ 45 182 244],dodgerblue
+socks_images/product_images/64.jpg,[234 221 213],gainsboro
+socks_images/product_images/65.jpg,[28 22 23],black
+socks_images/product_images/66.jpg,[146 140 141],gray
+socks_images/product_images/67.jpg,[26 20 21],black
+socks_images/product_images/68.jpg,[42 25 59],midnightblue
+socks_images/product_images/69.jpg,[63 30  4],black
+socks_images/product_images/70.jpg,[173 158 155],darkgray
+socks_images/product_images/71.jpg,[187 183 182],silver
+socks_images/product_images/72.jpg,[178 192 210],lightsteelblue
+socks_images/product_images/73.jpg,[182 176 177],darkgray
+socks_images/product_images/74.jpg,[173 160 168],darkgray
+socks_images/product_images/75.jpg,[185 179 180],silver
+socks_images/product_images/76.jpg,[178 172 173],darkgray
+socks_images/product_images/77.jpg,[159 142 145],rosybrown
+socks_images/product_images/78.jpg,[142 149 174],lightslategray
+socks_images/product_images/79.jpg,[122 107 104],dimgray
+socks_images/product_images/80.jpg,[184 182 158],darkgray
+socks_images/product_images/81.jpg,[158 150 157],darkgray
+socks_images/product_images/82.jpg,[ 61  40 192],darkslateblue
+socks_images/product_images/83.jpg,[58 31  5],black
+socks_images/product_images/84.jpg,[ 53  32 188],darkslateblue
+socks_images/product_images/85.jpg,[214 214 226],gainsboro
+socks_images/product_images/86.jpg,[121 115 116],gray
+socks_images/product_images/87.jpg,[28 22 23],black
+socks_images/product_images/88.jpg,[180 114 119],rosybrown
+socks_images/product_images/89.jpg,[128 122 123],gray
+socks_images/product_images/90.jpg,[120 114 115],dimgray
+socks_images/product_images/91.jpg,[66 33  7],maroon
+socks_images/product_images/92.jpg,[43 37 26],black
+socks_images/product_images/93.jpg,[40 29 62],midnightblue
+socks_images/product_images/94.jpg,[159 178 205],lightsteelblue
+socks_images/product_images/95.jpg,[85 32 75],darkslategray
+socks_images/product_images/96.jpg,[23 17 18],black
+socks_images/product_images/97.jpg,[ 80  40 111],darkslateblue
+socks_images/product_images/98.jpg,[44 39 38],darkslategray
+socks_images/product_images/99.jpg,[187 199 223],lightsteelblue
+socks_images/product_images/101.jpg,[130 121 117],gray
+socks_images/product_images/102.jpg,[35 31 26],black
+socks_images/product_images/103.jpg,[23 17 18],black
+socks_images/product_images/104.jpg,[70 23 56],darkslategray
+socks_images/product_images/105.jpg,[137 129 136],gray
+socks_images/product_images/106.jpg,[28 22 23],black
+socks_images/product_images/107.jpg,[175 169 170],darkgray
+socks_images/product_images/108.jpg,[217 200 234],thistle
+socks_images/product_images/109.jpg,[ 62 132 126],seagreen
+socks_images/product_images/110.jpg,[26 20 21],black
+socks_images/product_images/111.jpg,[46 38 39],darkslategray
+socks_images/product_images/112.jpg,[ 29   1 190],mediumblue
+socks_images/product_images/113.jpg,[213 226 234],gainsboro
+socks_images/product_images/114.jpg,[182 116 121],rosybrown
+socks_images/product_images/115.jpg,[194 181   0],goldenrod
+socks_images/product_images/116.jpg,[26 20 21],black
+socks_images/product_images/117.jpg,[105 123 146],slategray
