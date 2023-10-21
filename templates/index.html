@@ -8,23 +8,29 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Chela+One&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Chela+One&family=Suez+One&display=swap"
       rel="stylesheet"
     />
   </head>
   <body>
     <h1>Sock Finder</h1>
 
-    <div class="formSection">
-      <form method="post" enctype="multipart/form-data">
-        <div class="upload">
-          <label for="file">Choose file to upload</label>
-          <input type="file" id="file" name="file" multiple />
+    <div class="hero">
+      <label for="input-file" id="drop-area">
+        <input type="file" accept="image/*" id="input-file" hidden />
+        <div id="img-view">
+          <img src="../static/icon.png" />
+          <p>Drag and drop or click here<br />to upload sock images</p>
+          <span>Upload any sock images from desktop</span>
         </div>
-        <div class="submit">
-          <button>Submit</button>
-        </div>
-      </form>
+      </label>
     </div>
+
+    <form id="sockForm" action="/results" method="post">
+      <input type="submit" value="Find Socks" id="getSocks" />
+    </form>
+
+    <p class="love">Made with 💙 in San Diego, CA</p>
+    <script src="../static/script.js"></script>
   </body>
 </html>
