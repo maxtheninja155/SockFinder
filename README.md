@@ -1,11 +1,15 @@
 # Sock Finder
 
-This is a website that you upload a picutre of your sock, and it will find a different sock that matches the closest it can with your sock.
+This is a website where you upload a picture of your sock, and it will find a different sock that matches the closest it can to your sock.
 Using a Kaggle data set, we can connect your sock to a matching sock!
 
 
 
-https://github.com/maxtheninja155/SockFinder/assets/106212306/53c2eeb9-fbdb-43f4-a22e-646d8f200213
+
+https://github.com/maxtheninja155/SockFinder/assets/106212306/76ddce97-2568-43fa-a15b-b1a37d1b17ad
+
+
+
 
 
 
@@ -33,8 +37,8 @@ python main.py
 
 ## Authors
 
-- Max Wainwright - Back-End Development Engineer
 - Zachary Klein - Front-End Development and Integration Engineer
+- Max Wainwright - Back-End Development Engineer
 
 ## Acknowledgments
 
