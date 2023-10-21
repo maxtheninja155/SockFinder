@@ -1,5 +1,7 @@
 # Sock Finder
 
+[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+
 This is a website where you upload a picture of your sock, and it will find a different sock that matches the closest it can to your sock.
 Using a Kaggle data set, we can connect your sock to a matching sock!
 
@@ -39,6 +41,11 @@ python main.py
 
 - Zachary Klein - Front-End Development and Integration Engineer
 - Max Wainwright - Back-End Development Engineer
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
+
 
 ## Acknowledgments
 
