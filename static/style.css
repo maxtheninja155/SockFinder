@@ -175,3 +175,30 @@ p{
     font-family: 'Suez One', sans-serif;
     color: #176B87;
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; 
+    margin-top: 450px;
+  }
+
+.back-home{
+    background-color: #176B87;
+    border-radius: 30px;
+    color: #FFF;
+    padding: 6px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+    transition: 0.3s;
+    font-family: 'Suez One', sans-serif;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+  

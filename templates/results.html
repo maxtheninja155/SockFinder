@@ -16,7 +16,7 @@
     <h1>Your matching socks:</h1>
 
     <div class="image-container1">
-      <p>Old sock:</p>
+      <p>Your sock:</p>
       <img
         class="new-sock1"
         src="{{ url_for('static', filename='uploaded_image.jpg') }}"
@@ -24,8 +24,14 @@
     </div>
 
     <div class="image-container2">
-      <p>New sock:</p>
+      <p>Matching sock:</p>
       <img class="new-sock2" src="{{ url_for('static', filename=sockPath) }}" />
+    </div>
+
+    <div class="button-container">
+      <a href="/"
+        ><input type="submit" value="Back Home" class="back-home"
+      /></a>
     </div>
 
     <p class="love">Made with 💙 in San Diego, CA</p>

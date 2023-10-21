@@ -14,15 +14,6 @@ def index():
     return render_template('index.html')
 
 
-'''@app.route('/results', methods=['GET', 'POST'])
-def getResults():
-    if request.method == 'POST':
-        return redirect('/results')
-
-    userinp = request.form.get('userinp')
-    return render_template('results.html', image=userinp)'''
-
-
 @app.route('/results', methods=['GET', 'POST'])
 def getResults():
     if request.method == 'POST':
