@@ -46,13 +46,10 @@ def get_simular_sock(input_picture_path):
     input_sock_color_name = get_uploadedpic_color(input_picture_path)
     with open('socks_center_pixel.csv', 'r') as datafile:
         for value in datafile.readlines():
-            value.split(",")
-            print(value[2])
-            if value[2] == input_sock_color_name:
-                print(f'The sock that most resembles your sock is {value[0]}, and both socks have an approx. color'
-                      f'of {value[2]}')
-            else:
-                print(f'Your sock has a color of {input_sock_color_name}, this sock is like no other sock in the world')
+            csv_value = value.split(',')
+            csv_value[2] = csv_value[2].strip()
+            if input_sock_color_name == csv_value[2]:
+                print(csv_value[0])
 
 
 '''
@@ -177,7 +174,6 @@ socks_data_images = ['socks_images/product_images/1.jpg',
 '''
 
 # should turn up white ish
-get_uploadedpic_color('socks_images/Test_Photos/SockTest.jpg')
 get_simular_sock('socks_images/Test_Photos/SockTest.jpg')
 
 '''
