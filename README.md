@@ -3,6 +3,12 @@
 This is a website that you upload a picutre of your sock, and it will find a different sock that matches the closest it can with your sock.
 Using a Kaggle data set, we can connect your sock to a matching sock!
 
+
+
+https://github.com/maxtheninja155/SockFinder/assets/106212306/53c2eeb9-fbdb-43f4-a22e-646d8f200213
+
+
+
 ### Dependencies/Installing
 
 Users can clone the repository here
@@ -34,3 +40,4 @@ python main.py
 
 - Kaggle dataset used: https://www.kaggle.com/datasets/hserdaraltan/socks-images-deeplabv3plus-inceptionv3
 - Help used for data input: https://youtu.be/5Fws9daTtIs?si=l8q2k4cxcnkXx-q_
+- Color Palette: https://colorhunt.co/palette/04364a176b8764ccc5dafffb
