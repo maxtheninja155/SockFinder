@@ -4,6 +4,27 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sock Finder</title>
+    <link rel="stylesheet" type="text/css" href="../static/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Chela+One&display=swap"
+      rel="stylesheet"
+    />
   </head>
-  <body></body>
+  <body>
+    <h1>Sock Finder</h1>
+
+    <div class="formSection">
+      <form method="post" enctype="multipart/form-data">
+        <div class="upload">
+          <label for="file">Choose file to upload</label>
+          <input type="file" id="file" name="file" multiple />
+        </div>
+        <div class="submit">
+          <button>Submit</button>
+        </div>
+      </form>
+    </div>
+  </body>
 </html>
