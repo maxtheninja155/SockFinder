@@ -1,7 +1,21 @@
 # Sock Finder
 
-This is a website that you upload a picutre of your sock, and it will find a different sock that matches the closest it can with your sock.
+[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+
+Project for [HacktheWave](https://www.hackthewave.com/)
+
+This is a website where you upload a picture of your sock, and it will find a different sock that matches the closest it can to your sock.
 Using a Kaggle data set, we can connect your sock to a matching sock!
+
+
+
+
+https://github.com/maxtheninja155/SockFinder/assets/106212306/76ddce97-2568-43fa-a15b-b1a37d1b17ad
+
+
+
+
+
 
 ### Dependencies/Installing
 
@@ -27,10 +41,16 @@ python main.py
 
 ## Authors
 
-- Max Wainwright - Back-End Development Engineer
 - Zachary Klein - Front-End Development and Integration Engineer
+- Max Wainwright - Back-End Development Engineer
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
+
 
 ## Acknowledgments
 
 - Kaggle dataset used: https://www.kaggle.com/datasets/hserdaraltan/socks-images-deeplabv3plus-inceptionv3
 - Help used for data input: https://youtu.be/5Fws9daTtIs?si=l8q2k4cxcnkXx-q_
+- Color Palette: https://colorhunt.co/palette/04364a176b8764ccc5dafffb
