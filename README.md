@@ -40,7 +40,7 @@ python main.py
 ```
 
 ## Authors
-Off the Hook Software:
+Off the Hook Softwares:
 
 - Zachary Klein - Front-End Development and Integration Engineer
 - Max Wainwright - Back-End Development Engineer
