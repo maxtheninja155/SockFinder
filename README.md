@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
-👑 **First place project for [Hack the Wave](https://www.hackthewave.com/)**
+👑 **First place project for [Hack the Wave]([https://www.hackthewave.com/](https://devpost.com/software/sock-finder))**
 
 This is a website where you upload a picture of your sock, and it will find a different sock that matches the closest it can to your sock.
 Using a Kaggle data set, we can connect your sock to a matching sock!
